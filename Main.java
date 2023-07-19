@@ -165,10 +165,6 @@ class Main {
 			}
 			// System.out.println(romanVals[i]+": "+temps[i]+" num: "+num);
 		}
-		System.out.println();
-		for(int i=0; i<temps.length; i++){
-			// System.out.println(romanVals[i]+": "+temps[i]+" num: "+num);
-		}
 
 		/* Мы не получим число больше 100 */
 		if(temps[0]>0){
